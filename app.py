@@ -2,8 +2,8 @@
 # CABECERA
 # ============================================================
 # Alumno: Luis Ricardo Ley Castro
-# URL Streamlit Cloud: https://...streamlit.app
-# URL GitHub: https://github.com/...
+# URL Streamlit Cloud: https://mpsjz8u8a3kxui2wt2bldh.streamlit.app
+# URL GitHub: https://github.com/lrleyc/BC5
 
 # ============================================================
 # IMPORTS
